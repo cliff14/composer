@@ -59,7 +59,7 @@ You need to specify the package's version some way. When you publish your
 package on Packagist, it is able to infer the version from the VCS (git, svn,
 hg) information, so in that case you do not have to specify it, and it is
 recommended not to. See [tags](#tags) and [branches](#branches) to see how
-version numbers are extracted from these.
+version numbers are extracted fom these.
 
 If you are creating packages by hand and really have to specify it explicitly,
 you can just add a `version` field:
